@@ -1,2 +1,7 @@
 # gymagents
-Agents for the gym toolkit
+
+Agents for the gym toolkit. 
+
+# Installation
+
+...
